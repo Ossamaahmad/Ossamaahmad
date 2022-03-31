@@ -9,7 +9,7 @@
     <h2>Who am I?</h2>
   <p>Hi! Welcome to my Home Page! My name is Michel Buffa, I'm a professor at the University of Nice, in France, and I'm also the author of two MOOCS about HTML5 on W3Cx.</p>
     <p>I also play electric guitar and love coding WebAudio applications...</p>
-    <img src="https://pbs.twimg.com/profile_images/110455194/n666194627_2302_400x400.jpg"
+    <img src="https://images.app.goo.gl/XRi8AmJLRkuPgvRQ7"
          width=200
          alt="Michel Buffa plays rock and roll">
     <h2>My Hobbies</h2>
